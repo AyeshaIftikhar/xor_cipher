@@ -30,8 +30,32 @@ void main() {
 
 # Mobile Screenshots
 
-![Android 1](example/screenshots/android_1.jpeg) ![Android 1](example/screenshots/android_2.jpeg) ![Android 1](example/screenshots/android_3.jpeg) ![Android 1](example/screenshots/android_4.jpeg) ![Android 1](example/screenshots/android_5.jpeg) 
+<p align="center">
+    <img src="example/screenshots/android_1.jpeg" width="250">
+    <img src="example/screenshots/android_2.jpeg" width="250">
+    <img src="example/screenshots/android_3.jpeg" width="250">
+</p>
+
+<p align="center">
+    <img src="example/screenshots/android_4.jpeg" width="250">
+    <img src="example/screenshots/android_5.jpeg" width="250">
+</p>
+
 
 # Web screenshots
 
-![Web 1](example/screenshots/web_1.png) ![Web 1](example/screenshots/web_2.png) ![Web 1](example/screenshots/web_3.png) ![Web 1](example/screenshots/web_4.png) ![Web 1](example/screenshots/web_5.png) 
+<p align="center">
+    <img src="example/screenshots/web_1.png" width="250">
+    <img src="example/screenshots/web_2.png" width="250">
+    <img src="example/screenshots/web_3.png" width="250">
+</p>
+
+<p align="center">
+    <img src="example/screenshots/web_3.png" width="250">
+    <img src="example/screenshots/web_4.png" width="250">
+</p>
+
+<p align="center">
+    <img src="example/screenshots/web_5.png" width="250">
+</p>
+
