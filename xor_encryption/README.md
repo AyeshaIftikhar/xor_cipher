@@ -30,32 +30,14 @@ void main() {
 
 # Mobile Screenshots
 
-<p align="center">
-    <img src="example/screenshots/android_1.jpeg" width="250">
-    <img src="example/screenshots/android_2.jpeg" width="250">
-    <img src="example/screenshots/android_3.jpeg" width="250">
-</p>
-
-<p align="center">
-    <img src="example/screenshots/android_4.jpeg" width="250">
-    <img src="example/screenshots/android_5.jpeg" width="250">
-</p>
+| ![screenshot 1](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/android_1.jpeg)       |  ![screenshot 2](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/android_2.jpeg)       | ![screenshot 3](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/android_3.jpeg)       |
+| --------------------------------------- | --------------------------------------- |  --------------------------------------- |
+| ![screenshot 4](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/android_4.jpeg)       |  ![screenshot 5](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/android_5.jpeg)       | 
 
 
 # Web screenshots
 
-<p align="center">
-    <img src="example/screenshots/web_1.png" width="250">
-    <img src="example/screenshots/web_2.png" width="250">
-    <img src="example/screenshots/web_3.png" width="250">
-</p>
-
-<p align="center">
-    <img src="example/screenshots/web_3.png" width="250">
-    <img src="example/screenshots/web_4.png" width="250">
-</p>
-
-<p align="center">
-    <img src="example/screenshots/web_5.png" width="250">
-</p>
+| ![screenshot 1](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/web_1.png)       |  ![screenshot 2](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/web_2.png)       | ![screenshot 3](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/web_3.png)       |
+| --------------------------------------- | --------------------------------------- |  --------------------------------------- |
+| ![screenshot 4](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/web_4.png)       |  ![screenshot 5](https://github.com/AyeshaIftikhar/xor_cipher/blob/main/xor_encryption/example/screenshots/web_5.png)       |  
 
