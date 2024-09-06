@@ -1,7 +1,14 @@
 name: xor_encryption
 description: This package is an implementation of xor cipher for encrypting strings in flutter.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/AyeshaIftikhar/xor_cipher.git
+repository: https://github.com/AyeshaIftikhar/xor_cipher
+topics:
+  - flutter
+  - encryption
+  - dart
+  - cipher
+  - string
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
@@ -74,3 +81,28 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+
+funding: 
+  - https://patreon.com/AyeshaIftikhar
+
+screenshots:
+  - description: 'Android Screenshot 1'
+    path: example/screenshots/android_1.jpeg
+  - description: 'Android Screenshot 2'
+    path: example/screenshots/android_2.jpeg
+  - description: 'Android Screenshot 3'
+    path: example/screenshots/android_3.jpeg
+  - description: 'Android Screenshot 4'
+    path: example/screenshots/android_4.jpeg
+  - description: 'Android Screenshot 5'
+    path: example/screenshots/android_5.jpeg
+  - description: 'Web Screenshot 1'
+    path: example/screenshots/web_1.png
+  - description: 'Web Screenshot 2'
+    path: example/screenshots/web_2.png
+  - description: 'Web Screenshot 3'
+    path: example/screenshots/web_3.png
+  - description: 'Web Screenshot 4'
+    path: example/screenshots/web_4.png
+  - description: 'Web Screenshot 5'
+    path: example/screenshots/web_5.png
